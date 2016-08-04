@@ -1,0 +1,49 @@
+_repo: The-Iliad_3059
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: &id001 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+  - agent_name: Leaf, Walter
+    birthdate: 1852
+    deathdate: 1927
+    gutenberg_agent_id: '26679'
+    url: http://www.gutenberg.org/2009/agents/26679
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Leaf
+  - agent_name: Myers, Ernest
+    birthdate: *id001
+    deathdate: 1921
+    gutenberg_agent_id: '26680'
+    url: http://www.gutenberg.org/2009/agents/26680
+creator:
+  author:
+    agent_name: Homer
+    alias: Όμηρος
+    birthdate: -750
+    deathdate: -650
+    gutenberg_agent_id: '705'
+    url: http://www.gutenberg.org/2009/agents/705
+    wikipedia: http://en.wikipedia.org/wiki/Homer
+description: ''
+gutenberg_bookshelf: Classical Antiquity
+gutenberg_issued: '2002-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3059'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Trojan War'
+- !lcsh 'Achilles (Mythological character)'
+- !lcsh 'Epic poetry, Greek -- Translations into English'
+- !lcc 'PA'
+- GITenberg
+title: The Iliad
+url: http://www.gutenberg.org/ebooks/3059
