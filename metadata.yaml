@@ -1,10 +1,10 @@
 _repo: The-Iliad_3059
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translators:
   - agent_name: Lang, Andrew
     alias: Lang, Walter Andrew
-    birthdate: &id001 1844
+    birthdate: 1844
     deathdate: 1912
     gutenberg_agent_id: '79'
     url: http://www.gutenberg.org/2009/agents/79
@@ -16,7 +16,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/26679
     wikipedia: http://en.wikipedia.org/wiki/Walter_Leaf
   - agent_name: Myers, Ernest
-    birthdate: *id001
+    birthdate: 1844
     deathdate: 1921
     gutenberg_agent_id: '26680'
     url: http://www.gutenberg.org/2009/agents/26680
